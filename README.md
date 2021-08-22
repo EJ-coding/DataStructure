@@ -1,2 +1,2 @@
-# DataSturcture
+# DataStructure
 c++ project
